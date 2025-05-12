@@ -15,7 +15,7 @@ Includes a start menu, sound effects, collision detection, and score tracking!
 - [Pygame](https://www.pygame.org/) library
 
 
-- ## Enjoy!!
+## Enjoy!!
 
 
 -contact [isurujayanada2002@gmail.com]
