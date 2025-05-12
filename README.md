@@ -14,7 +14,8 @@ Includes a start menu, sound effects, collision detection, and score tracking!
 - Python 3.7 or higher
 - [Pygame](https://www.pygame.org/) library
 
-- ##Enjoy!!
+
+- ## Enjoy!!
 
 
 -contact [isurujayanada2002@gmail.com]
