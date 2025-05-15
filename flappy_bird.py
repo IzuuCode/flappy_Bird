@@ -112,7 +112,7 @@ while True:
         if event.type == SPAWNPIPE and game_active:
             pipe_list.extend(create_pipe())
 
-    SCREEN.blit(bg_surface, (0, 0)).
+    SCREEN.blit(bg_surface, (0, 0))
 
     if game_active:
         bird_movement += gravity
