@@ -1,4 +1,4 @@
-# 🐤 Flappy Bird Game in Python
+# 🐤 Flappy Bird Game in Python!!!
 
 A clone of the popular Flappy Bird game developed using Python and Pygame.  
 Includes a start menu, sound effects, collision detection, and score tracking!
